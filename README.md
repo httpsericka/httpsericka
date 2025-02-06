@@ -1,19 +1,24 @@
-Olá, sou a Éricka!!! 
+------------------------------------
+*Hello, sou a Éricka!* 👋
+------------------------------------
+
+Olá, me chamo Éricka! 🙋‍♀️
+
 
 Sou estudante de informática apaixonada por tecnologia e em constante aprendizado.
 Busco aprimorar minhas habilidades em programação e assim contribuir para projetos inovadores.
 
 ----------------------------------------------------------------------------------------------------
-Linguagens e tecnologias:
+|👩‍💻| Linguagens e tecnologias:
 
-- Atualmente estudando JAVA 
-- Python
-- MySQL Workbench
-- HTML5
-- CSS
-- Javascript
+- Atualmente estudando JAVA ☕️ 
+- Python 🐍
+- MySQL Workbench 🎲
+- HTML5 🌐
+- CSS 💻 
+- Javascript 💛
 ----------------------------------------------------------------------------------------------------
-Interesses:
+|📚| Interesses:
 
 - Desenvolvimento Back-end;
 - Desenvolvimento Front-end;
@@ -22,14 +27,15 @@ Interesses:
 - Novas tecnologias;
 - C#;
 ----------------------------------------------------------------------------------------------------
-Contato:
+|📞| Contato:
 
 Linkedin: www.linkedin.com/in/éricka-vargas
 
 ----------------------------------------------------------------------------------------------------
 
-Hobbies:
+|📸| Hobbies:
 
-Adoro gatinhos, música e café! Gosta de falar sobre filosofia? Eu também. 
+Adoro gatinhos, música e café! Gosta de falar sobre filosofia? Eu também.
+Gosto de registrar momentos e aquilo que quase ninguém percebe.
 
 ----------------------------------------------------------------------------------------------------
