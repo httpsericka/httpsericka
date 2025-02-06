@@ -35,7 +35,7 @@ Linkedin: www.linkedin.com/in/éricka-vargas
 
 |📸| Hobbies:
 
-Adoro gatinhos, música e café! Gosta de falar sobre filosofia? Eu também.
-Gosto de registrar momentos e aquilo que quase ninguém percebe.
+Amo gatinhos, música e café! Gosta de falar sobre filosofia? Eu também.
+Adoro registrar momentos e coisas que quase ninguém percebe.
 
 ----------------------------------------------------------------------------------------------------
