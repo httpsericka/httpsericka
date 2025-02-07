@@ -23,7 +23,7 @@ Busco aprimorar minhas habilidades em programação e assim contribuir para proj
 - Desenvolvimento Back-end;
 - Desenvolvimento Front-end;
 - Angular e React;
-- Desing UX/UI;
+- Design UX/UI;
 - Novas tecnologias;
 - C#;
 ----------------------------------------------------------------------------------------------------
